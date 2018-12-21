@@ -1,0 +1,6 @@
+png 100 50 hw3sphere.png
+
+
+
+sphere 0 0 -1 0.3
+sphere 1 .8 -1 0.5
