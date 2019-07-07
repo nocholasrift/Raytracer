@@ -459,4 +459,5 @@ def scal_mult(a, v1):
 for line in lines:
     input(line)
 
-raytrace()
+if __name__ == "__main__":
+    raytrace()
